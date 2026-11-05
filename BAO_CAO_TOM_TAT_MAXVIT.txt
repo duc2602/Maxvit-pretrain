@@ -1,0 +1,45 @@
+======================================================================
+BÁO CÁO TÓM TẮT — MAXVIT PRETRAINED
+======================================================================
+
+Ngày tạo: 2026-10-30 17:29:43
+
+----------------------------------------------------------------------
+1. THÔNG TIN DATASET
+----------------------------------------------------------------------
+Dataset        : Fruit-360 100x100
+Số lớp         : 278
+Số ảnh train   : 149,465
+Số ảnh test    : 49,640
+
+----------------------------------------------------------------------
+2. KẾT QUẢ MAXVIT
+----------------------------------------------------------------------
+  Test Loss                : 0.0000
+  Top-1 Accuracy           : 99.43%
+  Top-5 Accuracy           : 99.74%
+  Avg PSNR (dB)            : 21.28
+  Num samples              : 49,640
+  Num classes              : 278
+
+----------------------------------------------------------------------
+3. FILE ĐÍNH KÈM
+----------------------------------------------------------------------
+  best_ft.pt                                      120187.8 KB
+  best_head.pt                                    120189.4 KB
+  maxvit_classification_report.csv                     9.1 KB
+  maxvit_classification_report_full.txt               18.2 KB
+  maxvit_fruit360_final.pt                        120196.5 KB
+  maxvit_plot_1_training_curves.png                  103.0 KB
+  maxvit_plot_2_loss_vs_psnr.png                      71.4 KB
+  maxvit_plot_3_precision_recall_f1.png               86.5 KB
+  maxvit_plot_4_f1_distribution.png                   40.3 KB
+  maxvit_plot_5_confusion_matrix.png                 115.4 KB
+  maxvit_plot_6_top_errors.png                        89.5 KB
+  maxvit_plot_7_topk_accuracy.png                     31.1 KB
+  maxvit_top_errors.csv                                0.4 KB
+  summary.csv                                          0.1 KB
+
+======================================================================
+HẾT BÁO CÁO
+======================================================================

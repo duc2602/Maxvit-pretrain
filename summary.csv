@@ -1,0 +1,7 @@
+Metric,Value
+Test Loss,0.0000
+Top-1 Accuracy,99.43%
+Top-5 Accuracy,99.74%
+Avg PSNR (dB),21.28
+Num samples,"49,640"
+Num classes,278
